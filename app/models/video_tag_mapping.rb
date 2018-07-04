@@ -1,0 +1,2 @@
+class VideoTagMapping < ApplicationRecord
+end
